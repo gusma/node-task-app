@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/gusma/node-task-app/issues"
   },
-  "homepage": "https://github.com/gusma/node-task-app#readme"
+  "homepage": "https://github.com/gusma/node-task-app#readme",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
 }
